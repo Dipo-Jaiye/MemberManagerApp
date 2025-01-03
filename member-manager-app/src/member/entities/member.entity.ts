@@ -1,4 +1,4 @@
 export class Member {
     name: string;
-    level: string;
+    status: string;
 }
